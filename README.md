@@ -18,3 +18,6 @@ Data was collected from the [CFPB Complaint Database](https://www.consumerfinanc
 ### Results
 
 The model with the best performance was a Gradient Boosting Learner, with a test AUC of approximately 0.64.
+
+
+### [Read More](https://avikejriwal.github.io/CFPB-Complaint-Escalation/)
